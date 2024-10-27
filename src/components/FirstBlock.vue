@@ -15,7 +15,7 @@
 				<div
 					class="font-bold text-2xl tablet:text-4xl max-w-[315px] tablet:max-w-[600px]"
 				>
-					Roccella Jonica, la lampedusa che l'Italia ignora
+					Roccella Jonica, la Lampedusa che l'Italia ignora
 				</div>
 				<div class="flex gap-2 items-center">
 					<div class="content-author_1 w-6 tablet:w-10"></div>

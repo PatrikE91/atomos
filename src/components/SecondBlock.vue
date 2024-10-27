@@ -12,7 +12,7 @@
 					<div
 						class="bg-[#F1DADA] border border-black tablet:border-none text-black w-fit rounded shadow-[-2px_2px_0px_0px_#000000] px-1 text-[10px] font-bold"
 					>
-						Progetto Arca
+						PROGETTO ARCA
 					</div>
 					<div
 						class="font-bold tablet:text-xl max-w-[315px] h-[84px]"
